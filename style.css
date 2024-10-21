@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #181818;
+    color: #eee;
+}
+
+.container {
+    background-color: #282828;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#city-input, #search-button {
+    background-color: #383838;
+    color: #eee;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+  }
